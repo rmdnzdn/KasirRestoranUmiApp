@@ -1,3 +1,5 @@
+# SUDAH TIDAK MAINTENANCE
+
 # Aplikasi Kasir Restoran Umi
 Sebuah aplikasi berbasis web untuk mengelola Pemesanan dan pembayaran Restoran Umi.
 
@@ -16,11 +18,9 @@ Sebuah aplikasi berbasis web untuk mengelola Pemesanan dan pembayaran Restoran U
 * Bootstrap 
 * Java
 
-## Info Developer
-Jika ada pertanyaan bisa hubungi kontak dibawah : 
+## Credit Developer
 * [Email](mailto:programzidun@gmail.com) - programzidun@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/ramdanzidun/) - Muhammad Ramdan
-* [Instagram](https://www.instagram.com/ramdanzidun/) - @ramdanzidun
 
 
 ```
